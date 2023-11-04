@@ -25,7 +25,7 @@ $O(n * log n)$: Linearithmic time complexity. It means that the time taken by th
 
 ---
 $O(n^2)$: Quadratic time complexity. It means that the time taken by the algorithm increases quadratically with the input size.
-
+* [Selection Sort](./sort/selectionSort.md)
 ---
 O(2^n): Exponential time complexity. It means that the time taken by the algorithm increases exponentially with the input size.
 
