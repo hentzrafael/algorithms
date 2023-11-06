@@ -21,7 +21,7 @@ def binary_search(array:list, item:any) -> any:
             end = mid - 1
         elif array[mid] > item:
             start = mid + 1
-    return None
+    return None  
 ```
 
 ## Exercises:
