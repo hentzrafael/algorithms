@@ -22,6 +22,7 @@ algorithm increases linearly with the input size.
 
 ---
 $O(n * log n)$: Linearithmic time complexity. It means that the time taken by the algorithm increases in a way that is somewhere between linear and logarithmic.
+* [QuickSort](./sort/quickSort/quickSort.md)
 
 ---
 $O(n^2)$: Quadratic time complexity. It means that the time taken by the algorithm increases quadratically with the input size.
