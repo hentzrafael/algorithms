@@ -1,4 +1,4 @@
-# Algorithms and Data Structures
+# Algorithms
 
 This repository contains implementations of various algorithms and data structures in Python3. The goal is to provide a comprehensive collection of commonly used algorithms and data structures, along with explanations and examples.
 
